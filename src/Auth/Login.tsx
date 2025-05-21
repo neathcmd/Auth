@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom'
 
 const Login = () => {
   return (
+<<<<<<< HEAD
       <div className="min-h-screen bg-gradient-to-tr from-pink-300 via-purple-300 to-indigo-400 flex items-center justify-center px-4 font-sans">
 
       <div className="w-full max-w-md bg-white bg-opacity-90 backdrop-blur-md p-8 rounded-3xl shadow-xl fade-in-up">
@@ -59,6 +60,11 @@ const Login = () => {
       </div>
 
 
+=======
+    <div>
+      <h1>Log in page</h1>
+    </div>
+>>>>>>> login-register-branch
   );
 };
 

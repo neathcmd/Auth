@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 const Register = () => {
   return (
     <div>
+<<<<<<< HEAD
       <div className="min-h-screen bg-gradient-to-tr from-pink-200 via-rose-200 to-fuchsia-300 flex items-center justify-center px-4 font-sans">
 
       <div className="w-full max-w-md bg-white bg-opacity-90 backdrop-blur-md p-8 rounded-3xl shadow-xl fade-in">
@@ -70,6 +71,9 @@ const Register = () => {
       </div>
     </div>
 
+=======
+      <h1>register page</h1>
+>>>>>>> login-register-branch
     </div>
   );
 };
